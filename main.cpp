@@ -4,6 +4,10 @@
 
 int main() {
 
+    cout << "Hello from P53!" << endl;
+    cout << "Hello from P53!" << endl;
+    cout << "Hello from P53!" << endl;
+    cout << "Hello from P53!" << endl;
 
     return 0;
 }
